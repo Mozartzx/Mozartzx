@@ -23,7 +23,7 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://mozartzxx.netlify.app)
+![](https://mozartzx.netlify.app)
 
 ### 🔝 Top Contributed Repo
 
