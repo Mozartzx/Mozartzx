@@ -23,7 +23,7 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://mozartzx.netlify.app)
+
 
 ### 🔝 Top Contributed Repo
 
@@ -33,4 +33,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mozartzx&icon=9&color=4)](https://visitcount.itsvg.in)
 
+![](https://mozartzx.netlify.app)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
