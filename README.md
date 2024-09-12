@@ -33,5 +33,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mozartzx&icon=9&color=4)](https://visitcount.itsvg.in)
 
-![](https://mozartzx.netlify.app)
+![](https://bento.me/mozart)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
