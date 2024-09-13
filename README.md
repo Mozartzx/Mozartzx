@@ -34,3 +34,8 @@
 [![](https://visitcount.itsvg.in/api?id=Mozartzx&icon=9&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+![snake gif](https://github.com/Mozartzx/Mozartzx/blob/output/github-contribution-grid-snake.svg)
